@@ -1,38 +1,24 @@
-<section class="section">
-	<div class="paras">
-			<h1 class="sectionTag text-big">Java</h1>
-
-			<p class="sectionSubTag text-small">
-					Java has been one of the most
-					popular programming language
-					for many years. Java is Object
-					Oriented. However it is not
-					considered as pure object oriented
-					as it provides support for primitive
-					data types (like int, char, etc) The
-					Java codes are first compiled into byte
-					code (machine independent code). Then
-					the byte code is run on Java Virtual
-					Machine (JVM) regardless of the
-					underlying architecture.
-			</p>
-
-
-	</div>
-
-	<div class="thumbnail">
-			<img src="img.png" alt="laptop image">
-	</div>
-</section>
-
-<footer class="background">
-	<p class="text-footer">
-			Copyright ©-All rights are reserved
-	</p>
-
-
-</footer>
-</body>
-
+<html>
+  <head>
+    <title>Div Align Attribbute</title>
+  </head>
+  <body>
+    <div align="left">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.
+    </div>
+    <div align="right">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.
+    </div>
+    <div align="center">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.
+    </div>
+    <div align="justify">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.
+    </div>
+  </body>
 </html>
 
